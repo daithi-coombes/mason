@@ -54,6 +54,8 @@ You will need [VirtualBox](https://www.virtualbox.org/wiki/Downloads) for Vagran
 
 	$ vagrant box add lucid64 http://files.vagrantup.com/lucid64.box
 
+	Make sure you have some buildpacks installed (@see above)
+
     $ mason stacks:create lucid64
     * creating stack lucid64... done
 
