@@ -1,8 +1,8 @@
 # Mason
 
-Build things
+Build things (requires [bundler](http://bundler.io/))
 
-	$ gem install mason
+	$ bundle install
 
 ### Install buildpacks locally
 
